@@ -62,6 +62,5 @@ The subfolder [inversion] contains 2 scripts to run MAGMARS while randomly varyi
 Detail of the database used to parametrize MAGMARS 
 
 (5) C2021_ExpData.zip
-Electron microprobe analyses for the experiments of Collinet et al. 2021
-New experimental data reported in Collinet et al. 2021 JGR:P
+Electron microprobe analyses for the experiments of Collinet et al. 2021 JGR:P
 
