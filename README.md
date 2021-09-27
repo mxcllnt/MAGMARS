@@ -2,7 +2,6 @@
 Ref: Collinet et al. 2021 JGR:P
 MAGMARS: a Melting Model for the Martian Mantle and FeO-rich Peridotite
 (1), (2) and (3) are contained in the compressed folder MAGMARS_model_v1.zip
-(4) is the new experimental data reported in Collinet et al. 2021 JGR:P 
 
 (1) MAGMARS melting model package
 MAGMARS simulates the melting of FeO-peridotite (e.g. the martian mantle)
@@ -59,5 +58,10 @@ Printout and save (thermobarometer.txt) the following thermobarometer results:
 
 The subfolder [inversion] contains 2 scripts to run MAGMARS while randomly varying the input parameters around an average value (RandomSearch_MM.m) and then comparing the generated database to a target primary melt composition to see under which conditions and from which mantle source it could derive (MatchMelt_MM.m). These scripts were used to generate Table 3 in the main manuscript but note that this is an iterative process that has to be guided by the user.
 
-(4) Electron microprobe analyses for the experiments of Collinet et al. 2021
+(4) MAGMARS_database.zip
+Detail of the database used to parametrize MAGMARS 
+
+(5) C2021_ExpData.zip
+Electron microprobe analyses for the experiments of Collinet et al. 2021
+New experimental data reported in Collinet et al. 2021 JGR:P
 
