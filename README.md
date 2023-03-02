@@ -64,3 +64,8 @@ Detail of the database used to parametrize MAGMARS
 (5) C2021_ExpData.zip
 Electron microprobe analyses for the experiments of Collinet et al. 2021 JGR:P
 
+(6) Fastball_source_random_search.zip
+Inversion routine to constrain the source of the Gusev basalt Fastball (Collinet et al. submitted to GRL)
+
+(7) GRS_volcanic_provinces
+MAGMARS results used in figure 3 of Collinet et al. (submitted to GRL) to match the GRS volcanic provinces of Baratoux et al. 2011 with 3 different primitive mantle compositions.
