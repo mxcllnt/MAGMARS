@@ -8,7 +8,9 @@ Ref: 	[A] Collinet et al. 2021 JGR:P; MAGMARS: a Melting Model for the Martian M
 
 -----------------------------------------------------------------------------------
 (1) MAGMARS melting model package
+
 MAGMARS simulates the melting of FeO-peridotite (e.g. the martian mantle)
+
 The package contains: 
 - MAGMARS_v1.m 
 - MM_reg.m
@@ -46,6 +48,7 @@ Alternatively use
 
 -----------------------------------------------------------------------------------
 (2) Thermobarometer 
+
 Open and copy and past the composition of primary basalts for which you want to estimate the P-T conditions (assuming batch melting) 
 Each line is a composition (with 11 columns SiO2 TiO2 Al2O3 Cr2O3 FeO MnO MgO CaO Na2O K2O P2O5)
 
@@ -65,19 +68,24 @@ The subfolder [inversion] contains 2 scripts to run MAGMARS while randomly varyi
 
 -----------------------------------------------------------------------------------
 (4) MAGMARS_database.zip
+
 Detail of the database used to parametrize MAGMARS 
 
 (5) C2021_ExpData.zip
+
 Electron microprobe analyses for the experiments of Collinet et al. 2021 JGR:P
 
 -----------------------------------------------------------------------------------
 (6) Collinet_etal_2023_GRL_SI.zip
+
 Table S1-S4 and main supporting information for Collinet et al. (2023, submitted to GRL)
 
 (7) Fastball_source_random_search.zip
+
 Inversion routine to constrain the source of the Gusev basalt Fastball (Collinet et al., 2023, submitted to GRL)
 
 (8) GRS_volcanic_provinces.zip
+
 MAGMARS results used in figure 3 of Collinet et al. (2023, submitted to GRL) to match the GRS volcanic provinces of Baratoux et al. 2011 with 3 different primitive mantle compositions.
 
 
