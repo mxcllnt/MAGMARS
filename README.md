@@ -1,6 +1,8 @@
 # MAGMARS
-Ref: 	[A] Collinet et al. 2021 JGR:P; MAGMARS: a Melting Model for the Martian Mantle and FeO-rich Peridotite
-	[B] Collinet et al. 2023 GRL; The temperature and composition of the mantle sources of Martian basalts
+Ref: 	
+[A] Collinet et al. 2021 JGR:P; MAGMARS: a Melting Model for the Martian Mantle and FeO-rich Peridotite
+
+[B] Collinet et al. 2023 GRL; The temperature and composition of the mantle sources of Martian basalts
 	
 (1), (2) and (3) are contained in the compressed folder MAGMARS_model_v1.zip
 
