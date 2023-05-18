@@ -3,6 +3,7 @@ Ref: 	[A] Collinet et al. 2021 JGR:P; MAGMARS: a Melting Model for the Martian M
 	[B] Collinet et al. 2023 GRL; The temperature and composition of the mantle sources of Martian basalts
 	
 (1), (2) and (3) are contained in the compressed folder MAGMARS_model_v1.zip
+
 (6), (7) and (8) are the full supporting information for Collinet et al. (2023)
 
 -----------------------------------------------------------------------------------
